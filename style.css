@@ -75,3 +75,12 @@ body{
 .card:hover > .back{
   transform: perspective(600px) rotateY(0deg);
 }
+
+a.iOs{
+  position: absolute;
+  width: 100%;
+  top: 350px;
+  left: 2.5em;
+  font-size: 50px;
+  opacity: 0;
+}
